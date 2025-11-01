@@ -8,7 +8,7 @@ This research project focuses on designing a scalable, data-driven framework to 
 
 This project required the integration of various data sources and technical tools to create actionable intelligence:
 
-| Category | Tools Used | Deliverable |
+| **Category** | **Tools Used** | **Deliverable** |
 
 | **Data Acquisition & Modeling** | **Python** (Pandas, text processing) | Created **predictive models** to estimate potential revenue in informal sectors. |
 | **Database Management** | **SQL** | Structured and managed the diverse datasets (geospatial, mobile transaction, and economic data). |
