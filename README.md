@@ -10,9 +10,13 @@ This project required the integration of various data sources and technical tool
 
 | **Category** | **Tools Used** | **Deliverable** |
 
-|**Data Acquisition & Modeling**| **Python** (Pandas, text processing)| Created **predictive models** to estimate potential revenue in informal sectors|
-|**Database Management** | **SQL** | Structured and managed the diverse datasets (geospatial, mobile transaction, and informal sector economic data)|
-| **Visualization & Reporting** | **Power BI** | Developed **interactive dashboards** to visualize tax potential maps and policy impact scenarios for decision-makers. |**Preparing findings** for presentation at the Global Conference Alliance Inc., Canada (2026). |
+|**Data Acquisition & Modeling**| **Python** (Pandas, text processing)| Created **predictive models** to estimate potential revenue in informal sectors.|
+
+|**Database Management** | **SQL** | Structured and managed the diverse datasets (geospatial, mobile transaction, and informal sector economic data).|
+
+| **Visualization & Reporting** | **Power BI** | Developed **interactive dashboards** to visualize tax potential maps and policy impact scenarios for decision-makers.|
+
+|**Preparing findings** for presentation at the Global Conference Alliance Inc., Canada (2026).|
 
 ## ⚙️ Methodology Summary
 
